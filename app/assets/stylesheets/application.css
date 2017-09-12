@@ -15,7 +15,20 @@
  */
 
 body {
-  background-image: url(http://cdn.wallpapersafari.com/72/68/0dhpay.jpg);
-  background-position: center;
+  background: url(http://cdn.wallpapersafari.com/72/68/0dhpay.jpg) no-repeat center center fixed;
   background-size: cover;
+}
+
+.pure-g {
+  text-align: center;
+}
+
+.hash,
+.heading {
+  color: white;
+    text-shadow:
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000;
 }

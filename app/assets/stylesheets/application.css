@@ -13,3 +13,9 @@
  *= require_tree .
  *= require_self
  */
+
+body {
+  background-image: url(http://cdn.wallpapersafari.com/72/68/0dhpay.jpg);
+  background-position: center;
+  background-size: cover;
+}
